@@ -5,8 +5,8 @@ authors = ["Yuheng Chen <yuhengchen@sensetime.com>"]
 build = "build.rs"
 
 [dependencies]
-num  = "*"
-time = "*"
-libc  = "*"
-nalgebra = "*"
+num  = "0.1"
+time = "0.1"
+libc  = "0.2"
+nalgebra = "0.7"
 
